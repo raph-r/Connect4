@@ -2,6 +2,9 @@
 A classic Connect4 game.
 If you have any question, please, let me know.
 
+## Engine
+* Unity
+
 ## Features
 * Three Game Mode - Player vs Player | Player vs IA | IA vs IA
 * Two types of IA - Randon Or Game Tree(MinMax)
